@@ -11,6 +11,7 @@ split the ios , android etc to different repo from teamtalk repo to make it clea
 so we do not need to download all in teamtalk and we can focus on one thing at a time
 
 
+# build
 
 android TT编译环境要求
 
